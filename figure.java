@@ -1,5 +1,3 @@
-package org.neo.neo;
-
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Figure {
